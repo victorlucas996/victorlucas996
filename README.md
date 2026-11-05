@@ -40,7 +40,7 @@ Trago uma bagagem profissional orientada a processos, organização e atendiment
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20" alt="CSS3" />
 </p>
 
-**Back-end **  
+**Back-end**  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" alt="Python" />
 </p>
