@@ -22,7 +22,7 @@ Trago uma bagagem profissional orientada a processos, organização e atendiment
 
 - 🏢 **No mercado**: Atuo como estagiário desenvolvedor full-stack na **Defensoria Pública do Estado do Pará (DPE/PA)**, participando da evolução e suporte de soluções digitais.
 - 🎓 **Formação acadêmica**: Graduando em **Análise e Desenvolvimento de Sistemas** pela Estácio (conclusão prevista para 2027).
-- 🧭 **Filosofia de evolução**: Foco em aprendizado contínuo, boas práticas de arquitetura e desenvolvimento de ferramentas funcionais e acessíveis.
+- 🧭 **Evolução**: Foco em aprendizado contínuo, boas práticas de arquitetura e desenvolvimento de ferramentas funcionais e acessíveis.
 - 📍 Belém, Pará · Brasil
 
 ---
@@ -40,7 +40,7 @@ Trago uma bagagem profissional orientada a processos, organização e atendiment
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20" alt="CSS3" />
 </p>
 
-**Back-end & Lógica**  
+**Back-end **  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" alt="Python" />
 </p>
@@ -56,5 +56,5 @@ Trago uma bagagem profissional orientada a processos, organização e atendiment
 
 <p align="center">
   <em>"Aprender. Praticar. Construir."</em><br>
-  Sinta-se à vontade para explorar meus repositórios ou me chamar para conversar!
+ 
 </p>
